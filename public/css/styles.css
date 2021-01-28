@@ -1,0 +1,27 @@
+.fix-row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.table-link:hover {
+    text-decoration: none;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.btn-assign-product {
+    padding: inherit;
+    cursor: pointer;
+}
+
+
+.vertical-center-label {
+    margin: 8px;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
